@@ -1,0 +1,14 @@
+@media (max-width: 992px){
+.navbar-expand-lg .navbar-nav {
+ text-align: center;
+ width: 100%;
+}
+.hero-section .container .hero-content{
+  margin-top: 150px;
+ }
+}
+@media (min-width: 992px){
+  .need-section  form .col-lg-5{
+        width: 48%;
+        }
+}
